@@ -247,4 +247,4 @@ for col in df.select_dtypes(include="number").columns:
 
 
 # Result
-          <<include your Result here>>
+   The code is successfully executed.
