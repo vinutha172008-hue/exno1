@@ -245,6 +245,9 @@ for col in df.select_dtypes(include="number").columns:
 
 <img width="390" height="340" alt="Screenshot 2026-11-03 113716" src="https://github.com/user-attachments/assets/28ab3cdd-fadd-4556-8c1c-546be7c8d009" />
 
+## Interpretation
+
+The data cleaning program was executed successfully. Missing values were filled, duplicate records were removed, and unusual values were identified using IQR and Z-score methods. The cleaned data was saved in the required files.
 
 # Result
-   The code is successfully executed.
+  The data cleaning process was completed successfully.
