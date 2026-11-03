@@ -1,6 +1,7 @@
 # Exno:1
 Data Cleaning Process
 
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -213,23 +214,34 @@ for col in df.select_dtypes(include="number").columns:
 
 ```
 <img width="678" height="235" alt="Screenshot 2026-11-03 113515" src="https://github.com/user-attachments/assets/a69eb4c3-2b99-4d6b-9675-feca4c8b37d0" />
+
+
 <img width="700" height="205" alt="Screenshot 2026-11-03 113524" src="https://github.com/user-attachments/assets/cbc8e2b6-a803-4ff8-bf19-f0ee6e443729" />
+
 
 <img width="410" height="326" alt="Screenshot 2026-11-03 113536" src="https://github.com/user-attachments/assets/82f8d1fb-29cf-49c0-82b9-aa9febbf5d86" />
 
+
 <img width="388" height="327" alt="Screenshot 2026-11-03 113551" src="https://github.com/user-attachments/assets/1a2ab532-2b98-4aae-8e20-8a096b4b5760" />
+
 
 <img width="382" height="332" alt="Screenshot 2026-11-03 113602" src="https://github.com/user-attachments/assets/cad087b9-4952-46a7-af8e-a1dec82c8cf0" />
 
+
 <img width="347" height="331" alt="Screenshot 2026-11-03 113614" src="https://github.com/user-attachments/assets/e4e0fcf2-03f8-4f30-909b-09295f62e60c" />
+
 
 <img width="298" height="312" alt="Screenshot 2026-11-03 113624" src="https://github.com/user-attachments/assets/298a35e7-21fd-4cc6-b4b1-f4e085ae5c6b" />
 
+
 <img width="390" height="313" alt="Screenshot 2026-11-03 113635" src="https://github.com/user-attachments/assets/6d583edf-91e9-49be-a6b6-8c3e3dbdeaa7" />
+
 
 <img width="417" height="325" alt="Screenshot 2026-11-03 113648" src="https://github.com/user-attachments/assets/50ab9f27-c6ab-4ff2-b604-aa0233ae4323" />
 
+
 <img width="442" height="322" alt="Screenshot 2026-11-03 113702" src="https://github.com/user-attachments/assets/c82895a1-60e7-4bdb-ab35-435850004fe4" />
+
 
 <img width="390" height="340" alt="Screenshot 2026-11-03 113716" src="https://github.com/user-attachments/assets/28ab3cdd-fadd-4556-8c1c-546be7c8d009" />
 
